@@ -40,8 +40,8 @@ A simple web app that classifies text sentiment as **Positive**, **Neutral**, or
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/llm-sentiment-classifier.git
-cd llm-sentiment-classifier
+git clone https://github.com/harinandanmv/langchain-sentiment-analysis.git
+cd langchain-sentiment-analysis
 ```
 
 2. **(Optional) Create and activate a virtual environment**
